@@ -44,6 +44,7 @@ body{
     margin: 10px 40px;
     margin-left: 400px;
     display: block;
+    border-radius: 50%;
 }
 
 #second-pic{
@@ -51,6 +52,7 @@ body{
     height: 350px;
     margin: 10px 40px;
     display: block;
+    border-radius: 50%;
 }
 
 #third-pic{
@@ -58,6 +60,7 @@ body{
     height: 350px;
     margin: 10px 40px;
     display: block;
+    border-radius: 50%;
 }
 
 
